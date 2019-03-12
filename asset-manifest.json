@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.beea2f98.chunk.css",
-  "main.js": "/static/js/main.72981690.chunk.js",
-  "main.js.map": "/static/js/main.72981690.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-  "static/js/2.e9b9cf0c.chunk.js": "/static/js/2.e9b9cf0c.chunk.js",
-  "static/js/2.e9b9cf0c.chunk.js.map": "/static/js/2.e9b9cf0c.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.0e2de24831c0d57d75918f832857aa28.js": "/precache-manifest.0e2de24831c0d57d75918f832857aa28.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.beea2f98.chunk.css.map": "/static/css/main.beea2f98.chunk.css.map"
+  "main.css": "/ReactApartmentsList/static/css/main.df8eafcb.chunk.css",
+  "main.js": "/ReactApartmentsList/static/js/main.2cc373e0.chunk.js",
+  "main.js.map": "/ReactApartmentsList/static/js/main.2cc373e0.chunk.js.map",
+  "runtime~main.js": "/ReactApartmentsList/static/js/runtime~main.28d7a311.js",
+  "runtime~main.js.map": "/ReactApartmentsList/static/js/runtime~main.28d7a311.js.map",
+  "static/js/2.e9b9cf0c.chunk.js": "/ReactApartmentsList/static/js/2.e9b9cf0c.chunk.js",
+  "static/js/2.e9b9cf0c.chunk.js.map": "/ReactApartmentsList/static/js/2.e9b9cf0c.chunk.js.map",
+  "index.html": "/ReactApartmentsList/index.html",
+  "precache-manifest.95c07f45898b55102aedf251224c2b83.js": "/ReactApartmentsList/precache-manifest.95c07f45898b55102aedf251224c2b83.js",
+  "service-worker.js": "/ReactApartmentsList/service-worker.js",
+  "static/css/main.df8eafcb.chunk.css.map": "/ReactApartmentsList/static/css/main.df8eafcb.chunk.css.map"
 }
