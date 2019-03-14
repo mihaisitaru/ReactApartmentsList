@@ -1,13 +1,13 @@
 {
   "main.css": "/ReactApartmentsList/static/css/main.df8eafcb.chunk.css",
-  "main.js": "/ReactApartmentsList/static/js/main.2cc373e0.chunk.js",
-  "main.js.map": "/ReactApartmentsList/static/js/main.2cc373e0.chunk.js.map",
+  "main.js": "/ReactApartmentsList/static/js/main.78a1c6f3.chunk.js",
+  "main.js.map": "/ReactApartmentsList/static/js/main.78a1c6f3.chunk.js.map",
   "runtime~main.js": "/ReactApartmentsList/static/js/runtime~main.28d7a311.js",
   "runtime~main.js.map": "/ReactApartmentsList/static/js/runtime~main.28d7a311.js.map",
-  "static/js/2.e9b9cf0c.chunk.js": "/ReactApartmentsList/static/js/2.e9b9cf0c.chunk.js",
-  "static/js/2.e9b9cf0c.chunk.js.map": "/ReactApartmentsList/static/js/2.e9b9cf0c.chunk.js.map",
+  "static/js/2.4958a57c.chunk.js": "/ReactApartmentsList/static/js/2.4958a57c.chunk.js",
+  "static/js/2.4958a57c.chunk.js.map": "/ReactApartmentsList/static/js/2.4958a57c.chunk.js.map",
   "index.html": "/ReactApartmentsList/index.html",
-  "precache-manifest.95c07f45898b55102aedf251224c2b83.js": "/ReactApartmentsList/precache-manifest.95c07f45898b55102aedf251224c2b83.js",
+  "precache-manifest.6e365f98fabf90755f3d170b5fd69b1c.js": "/ReactApartmentsList/precache-manifest.6e365f98fabf90755f3d170b5fd69b1c.js",
   "service-worker.js": "/ReactApartmentsList/service-worker.js",
   "static/css/main.df8eafcb.chunk.css.map": "/ReactApartmentsList/static/css/main.df8eafcb.chunk.css.map"
 }
